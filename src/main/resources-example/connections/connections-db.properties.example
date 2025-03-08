@@ -1,0 +1,6 @@
+# Database connection details example. File extension should be renamed to '.properties'
+DBHOST=
+PORT=
+DBNAME=
+USER=
+DBPASS=
